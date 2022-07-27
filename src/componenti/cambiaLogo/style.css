@@ -1,0 +1,16 @@
+
+.my-logo{
+  
+    height: 200px;
+    object-fit: contain;
+}
+.acqua{
+    background-color: aqua;
+    
+    border: 1px solid blue;
+    margin: 1rem;
+}
+
+.block{
+    display: block;
+}
