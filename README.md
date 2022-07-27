@@ -2,9 +2,10 @@
 progetto piccolo ma importante nei fondamentali 
 &emsp;<br>
 <b> SCOPO PROGETTO  </b> :creazione componenti funzionali autoconsistenti in js  che attraverso webpack vengono innestati dentro un unico div root (riferimento React js)
-&emsp;
+&emsp;<br>
 <b>DESCRIZIONE PROGETTO </b>:l applicazione ha un componente bottone che all evento onclick modifica lo stato del componente logo cambiandogli la source dell immagine 
 &emsp;
+<br>
 #scelte progettuali
 utilizzo module bundler webpack
 implementazione closure
