@@ -6,10 +6,17 @@ progetto piccolo ma importante nei fondamentali
 <b>DESCRIZIONE PROGETTO </b>:l applicazione ha un componente bottone che all evento onclick modifica lo stato del componente logo cambiandogli la source dell immagine 
 &emsp;
 <br>
-#scelte progettuali
-utilizzo module bundler webpack
-implementazione closure
-gestione dello scope-chain ,utilizzo costrutto this
-componenti funzionali in js
+<b>SOLUZIONI ADOTTATE </b>:
+<ul>
+  <li>utilizzo module bundler webpack</li>
+  <li>implementazione closure</li>
+  <li>gestione dello scope-chain ,utilizzo costrutto this</li>
+      <li>componenti funzionali in js
+        </li>
+</ul>
+
+
+
+
 
 
